@@ -1,2 +1,4 @@
 # AZUR-AI-CLOUD-PYTHON
-1ST PRATICAL--in python how to create container &amp; how to create blod display python display blod
+AZUR-CLOUD-
+1st practicle -- we created azur resource group, storage account, container & upload the blob
+
